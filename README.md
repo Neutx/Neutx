@@ -16,7 +16,7 @@
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neutx" alt="neutx" /></a> </p>
+
 
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
 
