@@ -39,7 +39,7 @@
 
 
 </br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neutx&show_icons=true&locale=en&layout=compact" alt="neutx" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=neutx&show_icons=true&locale=en&layout=compact" alt="neutx" /></p>
 </br>
 
 
