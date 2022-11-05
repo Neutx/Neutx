@@ -5,6 +5,7 @@
 - I love learning new skills.
 - Also love flutter and aspire to become a full stack dev some day.
 - Done Projects related to Frontend web dev.
+- Fun fact **I think I am Funny**
 <img src = "https://raw.githubusercontent.com/Neutx/Neutx/main/chitanda.gif"  align = "right"> </img>
 
 ## Social <p> <img src="https://komarev.com/ghpvc/?username=Neutx&label=Profile%20views&color=0e75b6&style=flat" alt="Neutx" /> </p>
@@ -15,7 +16,6 @@
 
 ## Languages and Tools
 
-##trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=neutx" alt="neutx" /></a> </p>
 
 <img align="left" alt="C" width="26px" src="https://img.icons8.com/color/48/000000/c-programming.png" />
@@ -39,6 +39,7 @@
 
 
 </br>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=neutx&show_icons=true&locale=en&layout=compact" alt="neutx" /></p>
 </br>
 
 
@@ -50,4 +51,4 @@
 
 
 
- <p align = "center" > Made with 🤍 by Adil. :p </p>
+ <p align = "center" > Made with 🤍 by Adil :p </p>
