@@ -6,7 +6,7 @@
 - Also love flutter and aspire to become a full stack dev some day.
 - Done Projects related to Frontend web dev.
 - Fun fact **I think I am Funny**
-<img src = "https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  align = "right"> </img>
+<img src height=150 width=250 = "https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif"  align = "right"> </img>
 
 ## Social <p> <img src="https://komarev.com/ghpvc/?username=Neutx&label=Profile%20views&color=0e75b6&style=flat" alt="Neutx" /> </p>
 - [Linkedin](https://www.linkedin.com/in/adilparwez28/)
