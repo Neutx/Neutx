@@ -18,7 +18,7 @@
 
 
 
-<img src="https://skillicons.dev/icons?i=html,css,js,flutter,dart,github,vscode,androidstudio,python,c,react,firebase,mongodb,googlecloud" >
+<img align=center src="https://skillicons.dev/icons?i=html,css,js,flutter,dart,github,vscode,androidstudio,python,c,react,firebase,mongodb,googlecloud" >
 
 
 
