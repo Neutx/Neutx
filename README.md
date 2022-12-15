@@ -6,7 +6,7 @@
 - Also love flutter and aspire to become a full stack dev some day.
 - Done Projects related to Frontend web dev.
 - Fun fact **I think I am Funny**
-<img alt="" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" />
+<img src = "https://questfox.files.wordpress.com/2020/07/taphere.gif?w=200"  align = "right"> </img>
 
 ## Social <p> <img src="https://komarev.com/ghpvc/?username=Neutx&label=Profile%20views&color=0e75b6&style=flat" alt="Neutx" /> </p>
 - [Linkedin](https://www.linkedin.com/in/adilparwez28/)
