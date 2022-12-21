@@ -35,10 +35,6 @@
 <!-- <hr>
 <img  src="http://github-readme-streak-stats.herokuapp.com/?user=Neutx&theme=dark" />
  -->
-
-
- <p align = "center" > Made with 🤍 by Adil :p </p>
-
-
+<!--  <p align = "center" > Made with 🤍 by Adil :p </p> -->
 <img width=100% title="#ADIL PARWEZ" alt="#ADIL PARWEZ" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=ADIL_PARWEZ&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=72"/>
  
