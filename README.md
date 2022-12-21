@@ -38,3 +38,7 @@
 
 
  <p align = "center" > Made with 🤍 by Adil :p </p>
+
+
+<img width=100% title="#ADIL PARWEZ" alt="#YOSHITHA_RATHNAYAKE" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=YOSHITHA_RATHNAYAKE&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=72"/>
+ 
