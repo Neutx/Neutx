@@ -27,8 +27,8 @@
 
 </br>
 <div align='center' width="6rem">
-    <img   width="400px" src="https://github-readme-stats.vercel.app/api?username=Neutx&theme=jolly&show_icons=true"/>
-    <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Neutx&theme=jolly&show_icons=true" alt= "stats"/>
+    <img   width="300px" src="https://github-readme-stats.vercel.app/api?username=Neutx&theme=jolly&show_icons=true"/>
+    <img  width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=Neutx&theme=jolly&border_radius=5" alt= "stats"/>
 </div>
 <!-- 
 ![Github Stats]![Adil's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark) -->
