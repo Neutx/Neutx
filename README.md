@@ -4,7 +4,7 @@
 - I like doing Competitive Programming.
 - I love learning new skills.
 - Also love flutter and aspire to become a full stack dev some day.
-- Done Projects related to Frontend web dev.
+- Done Projects related to Frontend web dev
 - Fun fact **I think I am Funny**
 <img src = "https://questfox.files.wordpress.com/2020/07/taphere.gif?w=200"  align = "right"> </img>
 
