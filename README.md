@@ -19,7 +19,7 @@
 
 
 <p align="center">
-<img  src="https://skillicons.dev/icons?i=html,css,js,flutter,dart,github,vscode,androidstudio,python,c,react,firebase,mongodb,googlecloud" >
+<img  src="https://skillicons.dev/icons?i=html,css,js,flutter,dart,github,vscode,androidstudio,python,cpp,react,firebase,mongodb,googlecloud" >
 </p>
 
 
