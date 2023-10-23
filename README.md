@@ -36,7 +36,7 @@
 <!-- <hr>
 <img  src="http://github-readme-streak-stats.herokuapp.com/?user=Neutx&theme=dark" />
  -->
-## Languages and Tools
+<br>
 
  [![An image of @neutx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neutx)](https://holopin.io/@neutx)
 
