@@ -37,17 +37,6 @@
  -->
 <br>
 
-<!--START_SECTION:waka-->
-
-```txt
-Dart         10 mins         █████████████████▓░░░░░░░   70.39 %
-Groovy       1 min           ███░░░░░░░░░░░░░░░░░░░░░░   12.34 %
-YAML         1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-Text         0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-Gradle       0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
-```
-
-<!--END_SECTION:waka-->
 
  [![An image of @neutx's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/neutx)](https://holopin.io/@neutx)
 
